@@ -4,8 +4,8 @@
 # plot using gnuplot
 # >> load 'elliptic_curve_finite.gp'
 #
-##set term png
-##set output "elliptic_curve_finite.png"
+set term png
+set output "elliptic_curve_finite.png"
 #
 #  Fields in each record are separated by commas.
 #
